@@ -1,9 +1,9 @@
 ## Hi there 👋
 ## 📊 WakaTime Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue)
 
 **🐱 My GitHub Data** 
 
@@ -73,7 +73,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AZZAMAF/AZZAMAF/main/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2025 07:19:53 UTC
+ Last Updated on 22/10/2025 18:48:26 UTC
 <!--END_SECTION:waka-->
 
 <!--
