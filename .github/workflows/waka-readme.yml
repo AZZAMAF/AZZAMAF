@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 17 * * *' # daily at 00:00 WIB -> 17:00 UTC (ubah bila mau)
+    - cron: '0 17 * * *' # daily at 00:00 WIB -> 17:00 UTC
 
 permissions:
   contents: write
@@ -15,8 +15,11 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Update README with WakaTime stats
+      - name: Update README with WakaTime stats (debug enabled)
         uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          COMMIT_USERNAME: "github-actions[bot]"
+          COMMIT_EMAIL: "41898282+github-actions[bot]@users.noreply.github.com"
+          DEBUG_LOGGING: "true"
