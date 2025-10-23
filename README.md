@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## 📊 WakaTime Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue)
 
@@ -9,7 +9,7 @@
 
 > 📦 118.1 kB Used in GitHub's Storage 
  > 
-> 🏆 79 Contributions in the Year 2025
+> 🏆 81 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -20,21 +20,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                25 commits          ███████░░░░░░░░░░░░░░░░░░   26.60 % 
-🌆 Daytime                32 commits          █████████░░░░░░░░░░░░░░░░   34.04 % 
-🌃 Evening                32 commits          █████████░░░░░░░░░░░░░░░░   34.04 % 
-🌙 Night                  5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+🌞 Morning                25 commits          ███████░░░░░░░░░░░░░░░░░░   26.04 % 
+🌆 Daytime                33 commits          █████████░░░░░░░░░░░░░░░░   34.38 % 
+🌃 Evening                32 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
+🌙 Night                  6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Tuesday                  11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-Wednesday                20 commits          █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
-Thursday                 10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-Friday                   21 commits          ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
-Saturday                 13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-Sunday                   7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Monday                   12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Tuesday                  11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Wednesday                20 commits          █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+Thursday                 12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Friday                   21 commits          █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+Saturday                 13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Sunday                   7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
 ```
 
 
@@ -44,16 +44,18 @@ Sunday                   7 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     1 hr 46 mins        █████████████████░░░░░░░░   66.50 % 
+CSS                      53 mins             ████████░░░░░░░░░░░░░░░░░   33.49 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Ecommerce Website        2 hrs 40 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -73,7 +75,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AZZAMAF/AZZAMAF/main/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2025 18:48:26 UTC
+ Last Updated on 23/10/2025 12:46:35 UTC
 <!--END_SECTION:waka-->
 
 <!--
