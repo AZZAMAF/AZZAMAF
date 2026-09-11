@@ -14,18 +14,6 @@ Self-directed toward Cloud/DevOps because my degree program doesn't cover it exp
 
 ---
 
-### 🖥️ Featured Project — Fedora + Sway Linux Desktop
-
-A hand-built tiling WM setup, not a dotfiles clone. Some of the harder problems I actually diagnosed and fixed:
-
-- **Root-caused a CPU throttling bug** on T2 MacBook hardware: `thermald` was forcing `powersave` governor despite safe temps (60–70°C) — fixed by disabling the daemon and setting `no_turbo=0` + `performance` governor across all 12 cores.
-- **Fixed a GPU rendering crash** in a Flatpak app (Sober/Roblox) silently falling back to `llvmpipe` software rendering — forced it onto the discrete AMD Radeon GPU via `MESA_VK_DEVICE_SELECT`, verified with `btop`.
-- Built a custom **Waybar + EWW control panel**, screenshot pipeline (`grim`+`slurp`+`dunst`), and Alt+Tab switcher (`swayr`) from scratch.
-
-**→ [github.com/YOUR_USERNAME/dotfiles]** *(push it and link it here — this is your strongest proof of work right now)*
-
----
-
 ### 🧰 Tech Stack
 
 <p align="left">
