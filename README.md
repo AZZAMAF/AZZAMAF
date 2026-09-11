@@ -1,94 +1,49 @@
-## Hi there 👋
-## 📊 WakaTime Activity
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2039%20mins-blue)
+# Azzam
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue)
+**CS Student → Cloud Engineering / DevOps** · Jakarta, Indonesia
 
-**🐱 My GitHub Data** 
+Self-directed toward Cloud/DevOps because my degree program doesn't cover it explicitly. I learn by breaking things and fixing them — the project below is the clearest proof of that so far.
 
-> 📦 118.1 kB Used in GitHub's Storage 
- > 
-> 🏆 81 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 25 Public Repositories 
- > 
-> 🔑 9 Private Repositories 
- > 
-**I'm an Early 🐤** 
+---
 
-```text
-🌞 Morning                25 commits          ███████░░░░░░░░░░░░░░░░░░   26.04 % 
-🌆 Daytime                33 commits          █████████░░░░░░░░░░░░░░░░   34.38 % 
-🌃 Evening                32 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
-🌙 Night                  6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-```
-📅 **I'm Most Productive on Friday** 
+## Featured Project
 
-```text
-Monday                   12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Tuesday                  11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Wednesday                20 commits          █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-Thursday                 12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Friday                   21 commits          █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
-Saturday                 13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Sunday                   7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-```
+### 🖥️ Fedora + Sway — macOS-inspired Linux Desktop
+A hand-built tiling WM setup, not a dotfiles clone. Some of the harder problems I actually diagnosed and fixed:
 
+- **Root-caused a CPU throttling bug** on T2 MacBook hardware: `thermald` was forcing `powersave` governor despite safe temps (60–70°C) — fixed by disabling the daemon and manually setting `no_turbo=0` + `performance` governor across all 12 cores.
+- **Fixed a GPU rendering crash** in a Flatpak app (Sober/Roblox) that was silently falling back to `llvmpipe` software rendering — forced it onto the discrete AMD Radeon GPU via `MESA_VK_DEVICE_SELECT`, confirmed with `btop` usage before/after.
+- Built a custom **Waybar + EWW control panel**, screenshot pipeline (`grim` + `slurp` + `dunst`), and an Alt+Tab switcher (`swayr`) from scratch.
 
-📊 **This Week I Spent My Time On** 
+**[→ github.com/YOUR_USERNAME/dotfiles]** *(push it and link it here — this is your strongest proof of work right now)*
 
-```text
-🕑︎ Time Zone: Asia/Jakarta
+---
 
-💬 Programming Languages: 
-HTML                     1 hr 46 mins        █████████████████░░░░░░░░   66.50 % 
-CSS                      53 mins             ████████░░░░░░░░░░░░░░░░░   33.49 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+## Current Focus
 
-🔥 Editors: 
-VS Code                  2 hrs 40 mins       █████████████████████████   100.00 % 
+Building toward Cloud Engineering with DevOps as the entry point:
 
-🐱‍💻 Projects: 
-Ecommerce Website        2 hrs 40 mins       █████████████████████████   100.00 % 
+| Area | Status |
+|---|---|
+| Linux administration & networking | Ongoing (daily driver, not just theory) |
+| AWS (Cloud Practitioner → SAA) | In progress |
+| Docker | Learning |
+| Terraform | Learning |
+| CI/CD | Not started |
 
-💻 Operating System: 
-Mac                      2 hrs 40 mins       █████████████████████████   100.00 % 
-```
+I'd rather show a half-finished project with real bugs I solved than a polished tutorial clone.
 
-**I Mostly Code in JavaScript** 
+---
 
-```text
-JavaScript               9 repos             ████████░░░░░░░░░░░░░░░░░   32.14 % 
-HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-CSS                      4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-```
+## Stack
 
+`Linux` `Bash` `AWS` `Docker` `Terraform` `Git`
 
+---
 
-**Timeline**
+## Contact
 
-![Lines of Code chart](https://raw.githubusercontent.com/AZZAMAF/AZZAMAF/main/assets/bar_graph.png)
+- Email: YOUR_EMAIL
+- LinkedIn: YOUR_LINKEDIN
 
-
- Last Updated on 23/10/2025 12:46:35 UTC
-<!--END_SECTION:waka-->
-
-<!--
-**AZZAMAF/AZZAMAF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Open to internship / junior Cloud-DevOps opportunities.*
