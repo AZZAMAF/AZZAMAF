@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Azzam 👋</h1>
-<h3 align="center">CS Student → Cloud Engineering / DevOps · Jakarta, Indonesia</h3>
+<h3 align="center">CS Student → Cloud Engineering / DevOps · Serang, Indonesia</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdullah-azzam-firdaus-326447250/" target="_blank">
@@ -38,7 +38,7 @@ Self-directed toward Cloud/DevOps because my degree program doesn't cover it exp
 | AWS (Cloud Practitioner → SAA) | In progress |
 | Docker | Learning |
 | Terraform | Learning |
-| CI/CD | Not started |
+| CI/CD | Learning |
 
 I'd rather show a half-finished project with real bugs I solved than a polished tutorial clone.
 
